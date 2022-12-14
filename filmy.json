@@ -1,0 +1,181 @@
+[{
+  "_id": 1,
+  "tytul": "SKAZANI NA SHAWSHANK",
+  "rezyser": "Frank Darabont",
+  "gatunek": "Dramat",
+  "czastrwania": 189,
+  "aktorzy": [
+    "Morgan Freeman",
+    "Tim Robbins"
+  ],
+  "datadodania": {
+    "$date": {
+      "$numberLong": "1578700800000"
+    }
+  },
+  "ocena": 10,
+  "fabula": "Adaptacja opowiadania Stephena Kinga. Niesłusznie skazany na dożywocie bankier, stara się przetrwać w brutalnym, więziennym świecie.",
+  "status": "dostepny"
+},{
+  "_id": 2,
+  "tytul": "ZIELONA MILA",
+  "rezyser": "Frank Darabont",
+  "gatunek": "Dramat",
+  "czastrwania": 142,
+  "aktorzy": [
+    "Tom Hanks",
+    "Michael Clarke Duncan"
+  ],
+  "datadodania": {
+    "$date": {
+      "$numberLong": "1621555200000"
+    }
+  },
+  "ocena": 9,
+  "fabula": "Emerytowany strażnik więzienny opowiada przyjaciółce o niezwykłym mężczyźnie, którego skazano na śmierć za zabójstwo dwóch 9-letnich dziewczynek.",
+  "status": "dostepny"
+},{
+  "_id": 3,
+  "tytul": "FORREST GUMP",
+  "rezyser": "Robert Zemeckis",
+  "gatunek": "Dramat / Komedia",
+  "czastrwania": 141,
+  "aktorzy": [
+    "Robin Wright",
+    "Tom Hanks"
+  ],
+  "datadodania": {
+    "$date": {
+      "$numberLong": "1654041600000"
+    }
+  },
+  "ocena": 8,
+  "fabula": "Historia życia Forresta, chłopca o niskim ilorazie inteligencji z niedowładem kończyn, który staje się miliarderem i bohaterem wojny w Wietnamie.",
+  "status": "dostepny"
+},{
+  "_id": 4,
+  "tytul": "REQUIEM DLA SNU",
+  "rezyser": "Darren Aronofsky",
+  "gatunek": "Dramat",
+  "czastrwania": 102,
+  "aktorzy": [
+    "Jennifer Connelly",
+    "Jared Leto"
+  ],
+  "datadodania": {
+    "$date": {
+      "$numberLong": "1662249600000"
+    }
+  },
+  "ocena": 8,
+  "fabula": "Historia czwórki bohaterów, dla których używki są ucieczką przed otaczającą ich rzeczywistością.",
+  "status": "dostepny"
+},{
+  "_id": 5,
+  "tytul": "SHREK",
+  "rezyser": "Andrew Adamson /  Vicky Jenson",
+  "gatunek": "Animacja",
+  "czastrwania": 95,
+  "aktorzy": [
+    "Mike Myers",
+    "Eddie Murphy"
+  ],
+  "datadodania": {
+    "$date": {
+      "$numberLong": "1664582400000"
+    }
+  },
+  "ocena": 8,
+  "fabula": "By odzyskać swój dom, brzydki ogr z gadatliwym osłem wyruszają uwolnić piękną księżniczkę.",
+  "status": "niedostepny"
+},{
+  "_id": 6,
+  "tytul": "GLADIATOR",
+  "rezyser": "Ridley Scott",
+  "gatunek": "Dramat historyczny",
+  "czastrwania": 133,
+  "aktorzy": [
+    "Anna Dymna",
+    "Piotr Grabowski"
+  ],
+  "datadodania": {
+    "$date": {
+      "$numberLong": "1669075200000"
+    }
+  },
+  "ocena": 6,
+  "fabula": "Generał Maximus - prawa ręka cesarza, szczęśliwy mąż i ojciec - w jednej chwili traci wszystko. Jako niewolnik-gladiator musi walczyć na arenie o przeżycie.",
+  "status": "dostepny"
+},{
+  "_id": 7,
+  "tytul": "ZNACHOR",
+  "rezyser": "Jerzy Hoffman",
+  "gatunek": "Obyczajowy",
+  "czastrwania": 128,
+  "aktorzy": [
+    "Russell Crowe",
+    "Joaquin Phoenix"
+  ],
+  "datadodania": {
+    "$date": {
+      "$numberLong": "1669852800000"
+    }
+  },
+  "ocena": 8,
+  "fabula": "Historia znanego chirurga Wilczura, którego opuszcza ukochana żona. Zrozpaczony lekarz zaczyna pić i wdaje się w burdę, co skutkuje utratą pamięci.",
+  "status": "dostepny"
+},{
+  "_id": 8,
+  "tytul": "PSYCHOZA",
+  "rezyser": "Alfred Hitchcock",
+  "gatunek": "Thriller",
+  "czastrwania": 109,
+  "aktorzy": [
+    "Anthony Perkings",
+    "Janet Leigh"
+  ],
+  "datadodania": {
+    "$date": {
+      "$numberLong": "1660262400000"
+    }
+  },
+  "ocena": 7,
+  "fabula": "Dziewczyna uciekająca ze skradzionymi pieniędzmi zatrzymuje się w pensjonacie prowadzonym przez młodego Normana Batesa.",
+  "status": "niedostepny"
+},{
+  "_id": 9,
+  "tytul": "NIEPAMIĘĆ",
+  "rezyser": "Joseph Kosinski",
+  "gatunek": "Akcja, Sci-Fi",
+  "czastrwania": 125,
+  "aktorzy": [
+    "Tom Cruise",
+    "Olga Kurylenko"
+  ],
+  "datadodania": {
+    "$date": {
+      "$numberLong": "1625702400000"
+    }
+  },
+  "ocena": 6,
+  "fabula": "Rok 2077, z powodu napromieniowania Ziemi ludzie przenieśli się na księżyc Saturna, Tytana. Jack Harper wpada na trop zagadki, która całkowicie zmienia jego światopogląd i przyszłość ludzkości.",
+  "status": "dostepny"
+},{
+  "_id": 10,
+  "tytul": "MERIDA WALECZNA",
+  "rezyser": "Mark Andrews",
+  "gatunek": "Animacja",
+  "czastrwania": 90,
+  "aktorzy": [
+    "Kelly Macdonald",
+    "Robbie Coltrane"
+  ],
+  "datadodania": {
+    "$date": {
+      "$numberLong": "1572566400000"
+    }
+  },
+  "ocena": 8,
+  "fabula": "Księżniczka Merida, by uniknąć zamążpójścia, wyrusza w podróż. Spotyka wiedźmę, która za odpowiednią opłatą obiecuje jej pomóc.",
+  "status": "niedostepny"
+}]
